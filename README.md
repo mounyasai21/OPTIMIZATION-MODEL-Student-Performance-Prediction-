@@ -45,3 +45,11 @@ To achieve the best results, the following methodologies will be used:
 ✔ Regression Models (Linear & Polynomial) – To predict student performance based on study-related factors.
 ✔ Machine Learning Models (Random Forest, SVM, Neural Networks) – To analyze complex relationships between variables.
 ✔ Optimization Techniques (Linear Programming, Gradient Descent, Genetic Algorithms) – To maximize student performance by adjusting study strategies.
+
+
+
+OUTPUT SCREENS
+
+![Image](https://github.com/user-attachments/assets/6ab91c8e-ef96-499c-85ae-4127cb4864ea)
+![Image](https://github.com/user-attachments/assets/00b5a7e1-115e-4098-9c75-0ccac30c76a3)
+![Image](https://github.com/user-attachments/assets/952ea62e-1afd-490e-99f1-5e652f27cf40)
